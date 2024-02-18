@@ -11,5 +11,10 @@ public class SolarSystem {
         xros.Color="pink";
         xros.temp= "123456789k";
         xros.Size="55555555555mile";
+
+        planet2 gett =new planet2();
+        gett.color="Black";
+        gett.temp="75";
+        gett.size="4km";
     }
 }
