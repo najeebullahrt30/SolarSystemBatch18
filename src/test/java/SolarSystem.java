@@ -12,9 +12,17 @@ public class SolarSystem {
         xros.temp= "123456789k";
         xros.Size="55555555555mile";
 
+
         planet1 frog =new planet1();
         frog.color="blue";
         frog.temp="222222222kk";
         frog.size="3mile";
+
+
+        planet2 gett =new planet2();
+        gett.color="Black";
+        gett.temp="75";
+        gett.size="4km";
+
     }
 }
